@@ -1,1 +1,1 @@
-web: npm run codex
+web: npm run start:prod
